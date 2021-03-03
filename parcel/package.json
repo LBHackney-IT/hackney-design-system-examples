@@ -1,0 +1,19 @@
+{
+  "name": "parcel",
+  "version": "1.0.0",
+  "description": "A simple static website using [Parcel](https://parceljs.org/) to bundle JS and SCSS.",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lbh-frontend": "^3.0.0",
+    "parcel-bundler": "^1.12.3"
+  },
+  "devDependencies": {
+    "sass": "^1.32.8"
+  }
+}
