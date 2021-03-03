@@ -8,7 +8,7 @@ For help using these examples, ask in the [#hackit-design-system](https://hackit
 
 ## Contents
 
-- [Parcel](x)
+- [Parcel](https://github.com/LBHackney-IT/hackney-design-system-examples/blob/main/parcel)
 - [Next.js](x)
 - [Create React App](x)
 - [Express.js](x)

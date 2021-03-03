@@ -4,6 +4,8 @@ A simple static website using [Parcel](https://parceljs.org/) to bundle JS and S
 
 ## Installation
 
+You need Node.js and npm installed.
+
 ```
 npm install
 npm start
