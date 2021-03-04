@@ -9,11 +9,11 @@ For help using these examples, ask in the [#hackit-design-system](https://hackit
 ## Contents
 
 - [Parcel](https://github.com/LBHackney-IT/hackney-design-system-examples/blob/main/parcel)
-- [Next.js](x) (coming soon)
-- [Create React App](x) (coming soon)
+- Next.js (coming soon)
+- Create React App (coming soon)
 - [Express.js](https://github.com/LBHackney-IT/hackney-design-system-examples/tree/main/express)
-- [Wordpress](x) (coming soon)
-- [Eleventy](x) (coming soon)
-- [Ruby on Rails](x) (coming soon)
+- Wordpress (coming soon)
+- Eleventy (coming soon)
+- Ruby on Rails (coming soon)
 
 Got an example you'd like to add, or want to request one? Open a pull request or issue on this repo.
