@@ -1,1 +1,6 @@
 node_modules
+.DS_Store
+
+# Ignore built assets
+public/*.css
+public/assets
