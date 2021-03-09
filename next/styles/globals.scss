@@ -1,0 +1,7 @@
+$lbh-asset-path: "~lbh-frontend/lbh/assets";
+
+@import "node_modules/lbh-frontend/lbh/core/all";
+@import "node_modules/lbh-frontend/lbh/objects/all";
+
+// Import components here
+@import "node_modules/lbh-frontend/lbh/components/lbh-accordion/accordion";

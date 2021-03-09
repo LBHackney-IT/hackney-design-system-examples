@@ -1,0 +1,18 @@
+{
+  "name": "create-next-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "govuk-frontend": "^3.11.0",
+    "lbh-frontend": "^3.0.0",
+    "next": "10.0.7",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "sass": "^1.32.8"
+  }
+}
