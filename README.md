@@ -9,7 +9,7 @@ For help using these examples, ask in the [#hackit-design-system](https://hackit
 ## Contents
 
 - [Parcel](https://github.com/LBHackney-IT/hackney-design-system-examples/blob/main/parcel)
-- Next.js (coming soon)
+- [Next.js](https://github.com/LBHackney-IT/hackney-design-system-examples/tree/main/next)
 - [Create React App](https://github.com/LBHackney-IT/hackney-design-system-examples/tree/main/create-react-app)
 - [Express.js](https://github.com/LBHackney-IT/hackney-design-system-examples/tree/main/express)
 - Wordpress (coming soon)
