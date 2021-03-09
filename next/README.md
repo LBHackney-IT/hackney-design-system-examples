@@ -12,7 +12,7 @@ You need Node.js and npm installed.
 
 ```
 npm install
-npm start
+npm run dev
 ```
 
 It will be on `localhost:3000`
