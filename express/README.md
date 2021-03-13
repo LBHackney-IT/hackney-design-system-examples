@@ -2,7 +2,7 @@
 
 A simple static website using [Express](http://expressjs.com) to serve a HTML webpage, with [Sass](https://www.npmjs.com/package/sass) and [Nunjucks](https://github.com/mozilla/nunjucks) support.
 
-It includes a script to automatically copy assets to the public folder on startup.
+It includes a script to automatically [copy assets](https://design-system.hackney.gov.uk/developing/installing-from-npm#2-copying-assets) to the public folder on startup.
 
 This example doesn't include a bundler for client-side JavaScript. You could adapt the [Parcel](https://github.com/LBHackney-IT/hackney-design-system-examples/blob/main/parcel) example to add this.
 
