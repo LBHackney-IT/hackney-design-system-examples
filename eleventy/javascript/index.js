@@ -1,4 +1,4 @@
-import { initAll } from "lbh-frontend-repository"
+import { initAll } from "lbh-frontend";
 
 //////////////////////////////////
 // JAVASCRIPT
@@ -6,4 +6,4 @@ import { initAll } from "lbh-frontend-repository"
 // Help: https://design-system.hackney.gov.uk/developing/installing-from-npm#using-javascript
 //////////////////////////////////
 
-initAll()
+initAll();
