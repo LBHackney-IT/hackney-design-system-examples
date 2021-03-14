@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "lbh-frontend": "^3.1.0",
+    "lbh-frontend": "3.2.1",
     "parcel-bundler": "1.12.3",
     "sass": "^1.32.8"
   }
