@@ -8,7 +8,7 @@ class CustomDocument extends Document {
 
   render() {
     return (
-      <Html lang="en" class="govuk-template lbh-template">
+      <Html lang="en" className="govuk-template lbh-template">
         <Head />
         <body className="govuk-template__body">
           {/* Skip link goes here */}
