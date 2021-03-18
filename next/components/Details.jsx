@@ -2,16 +2,14 @@ import { useEffect, useRef } from "react";
 
 const MyDetails = () => {
   const ref = useRef(null);
-
   useEffect(() => {
     if (window !== undefined) {
       const Details = require("lbh-frontend").Details;
       new Details(ref.current).init();
     }
   }, []);
-
   return (
-    <details className="govuk-details  lbh-details" data-module="govuk-details">
+    <details className="govuk-details  lbh-details" ref={ref}>
       <summary className="govuk-details__summary">
         <span className="govuk-details__summary-text">
           Help with nationality

@@ -9,7 +9,6 @@ const MyAccordion = () => {
       new Accordion(ref.current).init();
     }
   }, []);
-
   return (
     <div
       className="govuk-accordion lbh-accordion"
