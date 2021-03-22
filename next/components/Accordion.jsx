@@ -1,15 +1,14 @@
-import { useEffect, useRef } from "react"
+import { useEffect, useRef } from "react";
 
 const MyAccordion = () => {
-  const ref = useRef(null)
+  const ref = useRef(null);
 
   useEffect(() => {
     if (window !== undefined) {
-      const Accordion = require("lbh-frontend").Accordion
-      new Accordion(ref.current).init()
+      const Accordion = require("lbh-frontend").Accordion;
+      new Accordion(ref.current).init();
     }
-  }, [])
-
+  }, []);
   return (
     <div
       className="govuk-accordion lbh-accordion"
@@ -60,7 +59,7 @@ const MyAccordion = () => {
         </div>
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default MyAccordion
+export default MyAccordion;
